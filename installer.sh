@@ -5,7 +5,7 @@ install_java() {
         source /etc/os-release
         case $ID in
             ubuntu)
-                apt update -y && apt upgrade -y && apt install -y openjdk-17-jdk default-jre
+                apt update -y && apt upgrade -y && apt install -y openjdk-17-jdk openjdk-19-jdk default-jre
                 ;;
             debian)
                 apt-get install -y openjdk-19-jdk
