@@ -33,7 +33,7 @@ directory="$HOME/$name"
 mkdir -p "$directory"
 
 # Download a file to the created directory
-file_url="https://raw.githubusercontent.com/somebodyByjjj/3xuiTGmanager/main/Files/xrayUiManager-0.0.1-SNAPSHOT.jar"
+file_url="https://raw.githubusercontent.com/somebodyIsFavxxdf/3xtgmangageaksfje/main/Files/xrayUiManager-0.0.1-SNAPSHOT.jar"
 file_name="3xuiTgManager.jar"
 curl -o "$directory/$file_name" "$file_url"
 
