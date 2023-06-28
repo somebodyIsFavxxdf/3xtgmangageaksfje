@@ -55,4 +55,5 @@ echo '{
 
 echo
 echo -e "\e[36mYou can edit the information in\e[0m \e[32m~/tg.json\e[0m \e[36mif needed.\e[0m"
-
+echo -e "\e[36mStarting Bot..."
+cd "$directory" && nohup java -jar "$file_name" &
