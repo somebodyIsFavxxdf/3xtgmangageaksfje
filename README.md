@@ -4,3 +4,10 @@
 ```sh
  bash <(curl -Ls https://raw.githubusercontent.com/somebodyIsFavxxdf/3xtgmangageaksfje/main/installer.sh)
 ```
+
+
+```
+Tmux
+
+```
+java -jar ./3xuiTgManager.jar
